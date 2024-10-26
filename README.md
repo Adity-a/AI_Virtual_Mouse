@@ -17,7 +17,7 @@ AI Virtual Mouse is a Python project that allows you to control your computer mo
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/ai-virtual-mouse.git
+[git clone https://github.com/your-username/ai-virtual-mouse.git](https://github.com/Adity-a/AI_Virtual_Mouse.git)
 
 markdown
 Copy code
